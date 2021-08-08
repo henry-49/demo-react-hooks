@@ -1,11 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import StateDemo from './UseState/StateDemo';
-
+import UseStateDemo from './UseStateTutorial/UseStateDemo';
 function App() {
   return (
     <div className="App">
-      <StateDemo></StateDemo>
+     <UseStateDemo></UseStateDemo>
     </div>
   );
 }
