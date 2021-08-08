@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
 import StateDemo from './UseState/StateDemo';
+import UseReducerDemo from './UseReducer/UseReducerDemo';
 
 function App() {
   return (
     <div className="App">
-      <StateDemo></StateDemo>
+      {/* <StateDemo></StateDemo> */}
+      <UseReducerDemo></UseReducerDemo>
     </div>
   );
 }
