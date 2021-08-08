@@ -1,11 +1,11 @@
 import './App.css';
-import UseReducerDemo from './UseReducer/UseReducerDemo';
+import UseEffectDemo from './UseEffectDemo/UseEffectDemo';
 
 function App() {
   return (
     <div className="App">
-      {/* <StateDemo></StateDemo> */}
-      <UseReducerDemo></UseReducerDemo>
+       <UseEffectDemo></UseEffectDemo>
+
     </div>
   );
 }
