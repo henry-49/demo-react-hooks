@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import './App.css';
-import StateDemo from './UseState/StateDemo';
 import UseReducerDemo from './UseReducer/UseReducerDemo';
 
 function App() {
