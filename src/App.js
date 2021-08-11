@@ -1,12 +1,12 @@
 import './App.css';
-import UseContextTutorial from './UseContextDemo/UseContextTutorial';
+import UseMemoTutorial from './UseMemoDemo/UseMemoTutorial';
 import StateDemo from './UseState/StateDemo';
 
 function App() {
   return (
     <div className="App">
       <StateDemo></StateDemo>
-      <UseContextTutorial />
+      <UseMemoTutorial />
     </div>
   );
 }
